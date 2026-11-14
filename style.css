@@ -93,13 +93,13 @@ a:hover {
 }
 
 .list-inline i {
-  font-size: 50px;
-  color: #A6C8E2;
-  opacity: 0.8;
+	font-size: 50px;
+	color: #A6C8E2;
+	opacity: 0.8;
 }
 
-.list-inline i:hover{
-	color: black ;
+.list-inline i:hover {
+	color: black;
 }
 
 /* Design adjustments using id (1% design remaining)*/
@@ -108,39 +108,40 @@ a:hover {
 }
 
 .sidebar {
-  position: fixed;
-  width: 200px;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  background-color: #1F3258;
-  padding: 40px 20px;
-  box-shadow: 4px 0px 20px rgba(0, 0, 0, 0.2);
+	position: fixed;
+	width: 200px;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	background-color: #1F3258;
+	padding: 40px 20px;
+	box-shadow: 4px 0px 20px rgba(0, 0, 0, 0.2);
 }
 
 .page-content {
-  margin-left: 200px;
+	margin-left: 200px;
 }
 
 .sidebar ul {
-  list-style: none;
-  padding-left: 0px;
+	list-style: none;
+	padding-left: 0px;
+	text-align: center;
 }
 
 .sidebar li {
-  margin: 20px 0px;
+	margin: 20px 0px;
 }
 
 .sidebar a {
-  color: #A6C8E2;
-  font-size: 18px;
-  display: block;
-  padding: 10px 15px;
-  border-radius: 6px;
-  transition: all 0.2s ease;
+	color: #A6C8E2;
+	font-size: 18px;
+	display: block;
+	padding: 10px 15px;
+	border-radius: 6px;
+	transition: all 0.2s ease;
 }
 
 .sidebar a:hover {
-  background-color: #005A9C;
-  color: white;
+	background-color: #005A9C;
+	color: white;
 }
